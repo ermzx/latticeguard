@@ -5,7 +5,8 @@
 啊 , 还好已经有轮子了 , 所以戳两下 LLM 写了一个简单的GUI用于管理PQC PGP证书
 
 > 本项目(用于支持PQC PGP)使用的主要轮子
-> 
+>
+> (BSD-3许可证)
 > github.com/ProtonMail/go-crypto-proton
 > 
 > github.com/cloudflare/circl
